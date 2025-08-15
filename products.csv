@@ -1,0 +1,8 @@
+ProductID,ProductName,Category,SubCategory,Supplier
+P001,T-Shirt,Apparel,Casual Wear,Cotton Co.
+P002,Jeans,Apparel,Bottom Wear,Denim Co.
+P003,Blender,Electronics,Kitchen,TechHome
+P004,Laptop,Electronics,Computers,ByteTech
+P005,Shoes,Footwear,Sports,RunFast
+P006,Smartphone,Electronics,Mobile,SmartCom
+P007,Watch,Accessories,Fashion,TimeStyle
