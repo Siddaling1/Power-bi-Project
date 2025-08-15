@@ -8,6 +8,9 @@ The goal is to build an interactive **Power BI dashboard** that provides actiona
 ## Dashboard
 <a href ="https://github.com/Siddaling1/Power-bi-Project/blob/main/Dashboard.png" >Dashboard</a>
 
+## Screenshot
+<a href="https://github.com/Siddaling1/Power-bi-Project/blob/main/Screenshot%20of%20Power%20Bi%20Dashboard.png">Screenshot</a>
+
 ## Dashboard Features
 Total Sales
 
