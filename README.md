@@ -6,7 +6,8 @@ This project analyzes one year of sales, customer, store, and product data for *
 The goal is to build an interactive **Power BI dashboard** that provides actionable insights into sales performance, customer behavior, product profitability, and store operations.
 
 ## Dashboard
-<a href ="https://github.com/Siddaling1/Power-bi-Project/blob/main/Dashboard.png" >Dashboard</a>
+![Dashboard Preview](Dashboard.png)
+
 
 ## Screenshot
 <a href="https://github.com/Siddaling1/Power-bi-Project/blob/main/Screenshot%20of%20Power%20Bi%20Dashboard.png">Screenshot</a>
